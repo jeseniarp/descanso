@@ -36,8 +36,8 @@
 -->
 <div align="center">
   <h3 align="center">Compilar un descanso</h3>
- <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="bostezoas.png" alt="Logo" width="100">
+ <a>
+    <img src="bostezoas.png" alt="Logo">
   </a>
 
   <p align="center">
@@ -91,13 +91,6 @@ Este es un manual de actividades para descansar, aquí podrás encontrar las dep
 En esta sección se mencionan los principales frameworks y bibliotecas que se utilizaron para iniciar el proyecto.
 
 * [![Nextpanicattack.js][Nextpanicattack.js]][www.nextpanickattack.com]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
