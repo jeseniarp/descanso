@@ -37,7 +37,7 @@
 <div align="center">
   <h3 align="center">Compilar un descanso</h3>
  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/bostezoas.png" alt="Logo" width="100">
+    <img src="bostezoas.png" alt="Logo" width="100">
   </a>
 
   <p align="center">
