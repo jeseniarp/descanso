@@ -36,8 +36,9 @@
 -->
 <div align="center">
   <h3 align="center">Compilar un descanso</h3>
+ <img src="ascii-art.png"> 
  <a>
-    <img src="bostezoas.png" alt="Logo">
+    <img src="bostezoas.png">
   </a>
 
   <p align="center">
